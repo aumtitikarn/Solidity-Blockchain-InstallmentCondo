@@ -17,6 +17,6 @@ The conditions are as follows: - Down payment less than 10%, repayment period le
 - Currency conversion function between ETH and USD using Oracle.
 
 
-Oracle >>> @chainlink/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol
-Wallet >>> Metamask
-Framework >>> https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js
+Oracle >>> @chainlink/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol </br>
+Wallet >>> Metamask </br>
+Framework >>> https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js </br>
